@@ -1,3 +1,3 @@
-# hello-word
-Hello,I don't know what to say.
+# hello-world
+Hello,world
 My name is He xx, I like reading.
